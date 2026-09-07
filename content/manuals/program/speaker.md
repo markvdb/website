@@ -35,10 +35,10 @@ Please mind the following requirements:
 - 60 Hz or lower video output refresh rate
 - 1080p (1920x1080) or lower output resolution
 
-Please do not touch the video capture boxes except for providing them with hdmi input. We'll love to show you around the video boxes, but rather not in live production.
+Please do not touch the video capture box except for providing it with hdmi input from your laptop. We'd love to show you around the video boxes, but rather not in live production. If curious about the innards, have a look at [doc.video.fosdem.org](https://doc.video.fosdem.org).
 
 ### Talk Q&A: live audience interaction and text based questions from chat.fosdem.org
-You will have a chance to address your real life live audience's questions in a live broadcast q&a session. Your room manager or his assistant may also relay questions from https://chat.fosdem.org .
+You will have a chance to address your real life live audience's questions in a live broadcast q&a session. Your room manager or his assistant may also relay questions from [chat.fosdem.org](https://chat.fosdem.org) .
 
 - You may want to join the following rooms:
   - [#speakers:fosdem.org](https://matrix.to/#/#speakers:fosdem.org?web-instance[element.io]=chat.fosdem.org)
@@ -58,11 +58,11 @@ You will have a chance to address your real life live audience's questions in a 
   - [UB building](https://nav.fosdem.org/l/ub4228/): room UB4.228 
 - Alternatively, you may contact video volunteers through the dedicated matrix [video channel](https://matrix.to/#/#fosdem-video:matrix.org?web-instance[element.io]=chat.fosdem.org).
 - For issues regarding the stream on https://fosdem.org site in general, please also email both [video@fosdem.org](mailto:video@fosdem.org) and [server@fosdem.org](mailto:server@fosdem.org) .
-- I have a problem connecting to https://chat.fosdem.org at all.
+- I have a problem connecting to [chat.fosdem.org](https://chat.fosdem.org).
   - Speak to anyone in a blue (FOSDEM developer room manager), green (FOSDEM video) or yellow (FOSDEM staff) t-shirt.
 
 ## After your talk & after FOSDEM
-When agreeing to speak at FOSDEM, you explicitly granted FOSDEM vzw the right to publish your video under a CC BY-SA license. Your video will be uploaded to the FOSDEM video archive at https://video.fosdem.org .
+When agreeing to speak at FOSDEM, you explicitly granted FOSDEM vzw the right to publish your video under a CC BY-SA license. Your video will be uploaded to the FOSDEM video archive at [video.fosdem.org](https://video.fosdem.org) .
 
 ### Video review
-Your developer room manager, one of his delegates and/or you should receive a [video review](https://review.video.fosdem.org) link by email. There, you can indicate proper start and end points for your talk video to be released at https://video.fosdem.org .
+Your developer room manager, one of his delegates and/or you should receive a [video review](https://review.video.fosdem.org) link by email. There, you can indicate proper start and end points for your talk video to be released at [video.fosdem.org](https://video.fosdem.org) .
